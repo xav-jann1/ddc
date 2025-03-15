@@ -1,0 +1,388 @@
+                                              DOSSIER DE COMPETENCES
+Xavier JANNIN
+                                        Ingénieur en Développement Logiciel
+                                                4 ans d'expérience
+
+                                     Curieux, Persévérant, Adaptatif, Autonome
+
+🛠️ COMPETENCES ⚙️ _______________________________________________________________________________________________
+
+  🏆 Utilisés dans de nombreux projets (presque un expert):         Python, Bash, Git|GitHub|GitLab
+
+  🎯 Déjà utilisés avec succès dans un ou plusieurs projets:        C/C++, JavaScript/NodeJS, C#, Pytest, SQL
+
+  🚫 Utilisés professionnellement mais ne souhaite pas en refaire:  Ansible, AWX, Gauge
+
+  🔧 Outils déjà utilisés au cours de projets:                      Artifactory, Docker, Jenkins, Grafana
+                                                                    IDE: Visual Studio, STM32CubeIDE, MPLAB X IDE
+                                                                    Microcontrôleurs: Arduino, STM32, PIC, 8051
+
+💼 EXPERIENCES 🗓️ ________________________________________________________________________________________________
+
+  01/2024 - 03/2025   Ingénieur d'Etudes à Elsys Design, Villeurbanne
+     1 an 2 mois        ✅ Vérification d'une puce électronique en cours de développement
+
+  02/2021 - 01/2024   Ingénieur d'Etudes à Solutec, Villeurbanne
+     2 ans 11 mois      🐸 Expert Artifactory et Automatisation de l'installation de l'agent Splunk 🕵🏻
+
+  06/2020 - 10/2020   Projet de Fin d'Etudes à Intitek for Industry, Lyon
+     4 mois             📟 Conception d'une application débarquée
+
+  03/2020 - 06/2020   Stage Ingénieur à Intitek for Manufacturing, Lyon
+     3 mois             📏 Développement logiciel d'une nouvelle carte d'Instrumentation et de Mesures (I&M)
+
+
+🎓 FORMATION 📚 _________________________________________________________________________________________________
+
+  2017-2020   Ecole d'ingénieur en Sciences du Numérique en Majeure Robotique
+                  à CPE Lyon
+
+  2015-2017   Classes Préparatoires Scientifiques
+                  aux Classes Préparatoires de CPE Lyon
+
+  2015        Baccalauréat Scientifique option Sciences de l'Ingénieur avec Mention
+                  au Lycée Aux Lazaristes à Lyon
+
+
+🌍 LANGUES 🗣️ ___________________________________________________________________________________________________
+
+  🇫🇷 Français: Langue maternelle.
+
+  🇬🇧 Anglais: Niveau C1 (CAE). (Quotidiennement, regarde des vidéos et lit des articles dans la langue de Turing)
+
+
+<page_break>
+👨‍💼 EXPERIENCES DETAILLEES 📝 _____________________________________________________________________________________
+
+💼 Ingénieur d'Etudes - Elsys Design, Villeurbanne ...............................................................
+
+  🗓️ 01/2024 - 03/2025 • 1 an 2 mois
+
+                         🏷️ Vérification d'une puce électronique en cours de développement ✅
+
+  ℹ️ Contexte:
+    Mission dans une équipe "Vérification" d'un produit en cours de développement dans une entreprise fabricant
+    des puces électroniques.
+
+  🛠️ Réalisations:
+    ● Création et développement de Test Plans pour valider des fonctionnalités du produit en correspondance
+      avec une norme IEEE:
+      > Identification et rédaction de tests pour chaque Test Plan.
+      > Développement et intégration des tests composant les Test Plans (en Markdown et Python avec Gauge).
+    ● Collecte automatique des résultats de tests exécutés quotidiennement et visualisation de ces résultats:
+      > Sauvegarde des résultats des tests Gauge dans une base de données PostgreSQL.
+      > Création d'interfaces (avec Grafana et des requêtes SQL) pour visualiser les résultats des tests
+        individuellement et par Test Plan.
+    ● Analyses et corrections de tests en échec:
+      > Lorsqu'un test est en échec, identification de la source de l'erreur puis détermination d'un correctif.
+      > Pour faciliter l'analyse de certaines données, ré-implémentation d'un protocole pour récupérer des
+        données internes du produit et les rendre utilisables par ROS.
+
+  🎉 Résultats:
+    ● La création et développement des Test Plans permet de rapidement tester dès qu'une nouvelle version
+      du produit est disponible.
+    ● La collecte des tests n'est plus réalisée manuellement et permet d'avoir ainsi des rapports sur les
+      résultats des tests de nuit (plus de 9000 tests) dès le début de journée.
+      Aussi, beaucoup plus d'informations sur les tests sont collectées (par exemple: le temps d'exécution) ce
+      qui peut aider à l'analyse.
+    ● Les analyses et corrections permettent de progressivement converger le produit vers les résultats
+      attendus.
+
+  👨‍💻 Environnement technique:
+    ● Langages: Python, Gauge, SQL, ROS, C.
+    ● Outils: Git, GitHub, Jenkins, Grafana.
+
+
+<page_break>
+💼 Ingénieur d'Etudes - Solutec, Villeurbanne ....................................................................
+
+  🗓️ 02/2021 - 01/2024 • 2 ans 11 mois
+
+                  🏷️ Expert Artifactory et Automatisation de l'installation de l'agent Splunk 🐸🕵🏻
+
+  ℹ️ Contexte:
+    Missions (réalisées en parallèle) au sein de l'équipe "Outillage" dans la DSI d'une entreprise en charge de
+    la distribution de l'électricité.
+
+  🛠️ Missions: (réalisées en parallèle)
+    1. Expert Artifactory
+        Artifactory est le gestionnaire de dépôt d'objets binaires utilisé au sein de l'entreprise pour stocker
+        les binaires des applications développées par les projets. Cet outil doit alors être disponible 24h/24h
+        et présent dans toutes les zones réseaux de la DSI pour que les projets puissent déployer ou récupérer
+        des artéfacts.
+
+     ● Support de l'outil:
+       > Accompagnement des projets sur l'utilisation d'Artifactory lorsqu'ils rencontrent des difficultés.
+       > Débogage et correction de problèmes rencontrés par les utilisateurs ou par Artifactory.
+     ● Evolution de l'outil:
+       > Installation d'Artifactory dans de nouvelles zones réseaux.
+       > Réalisation de montées de version d'Artifactory.
+     ● Amélioration de l'exploitation de l'outil:
+       > Développement de scripts Bash et Python pour faciliter l'administration d'Artifactory.
+         Exemples de scripts réalisés:
+          • Script Python pour automatiser la création des dépôts, utilisateurs et permissions sur Artifactory en
+            fonction de la zone réseau (et aussi pour gérer les réplications entre zones).
+          • Script Python pour générer des permissions en fonction des utilisateurs et des dépôts présents sur un
+            Artifactory (dans l'objectif de modifier la norme sur le nom des permissions).
+       > Développement d'un playbook Ansible pour automatiser l'installation d'Artifactory.
+         L'installation a été développée pour limiter le nombre de dépendances: un job Jenkins est utilisé pour
+         rassembler dans un même répertoire tous les fichiers nécessaires à l'installation d'Artifactory.
+
+    2. Automatisation de l'installation de l'agent Splunk sur l'ensemble des machines du parc
+        Splunk est le SIEM utilisé par le pôle Cyber pour récolter les logs des machines du parc.
+        Pour faciliter l'installation de l'agent Splunk sur toutes les machines Linux et Windows, ces
+        installations ont été automatisées à l'aide d'Ansible et AWX.
+
+     ● Automatisation de l'installation de l'agent Splunk sous Linux et Windows:
+       > Développement de rôles Ansible d'installation de l'agent Splunk sous Linux et Windows.
+       > Gestion de l'installation sur différentes versions de souches Linux et Windows, et dans différentes
+         zones réseaux.
+       > Lancement de l'installation de l'agent Splunk depuis AWX.
+     ● Déploiements de l'agent sur les machines du parc:
+       > Coordination des installations de l'agent sur les machines du parc.
+       > Développement d'une macro Excel pour automatiquement remplir un fichier Excel à partir des logs
+         obtenus avec des jobs lancés sur AWX.
+
+  🎉 Résultats:
+    ● Les projets utilisant Artifactory sont accompagnés pour réussir le développement et la mise en place de
+      leur application face aux difficultés et problèmes qu'ils rencontrent.
+    ● Déploiement simplifié d'Artifactory dans une nouvelle zone réseau ; et simplification de l'exploitation de
+      l'outil par le développement de scripts.
+    ● Déploiement de l'agent Splunk sur plus de 10 000 machines Linux et Windows.
+
+  👨‍💻 Environnement technique:
+    ● Langages: Python, Bash, Ansible, VBA.
+    ● Outils: Artifactory, Git, GitLab CI, AWX, Jenkins, Linux.
+    ● Méthodologie: Agile.
+
+
+<page_break>
+💼 Projet de Fin d'Etudes - Intitek for Industry, Lyon ...........................................................
+
+  🗓️ 06/2020 - 10/2020 • 4 mois
+
+                                    🏷️ Conception d'une application débarquée 📟
+
+  ℹ️ Contexte:
+    En continuité de mon précédent stage, il m'a été proposé de participer au développement d'une application
+    de contrôle et de récupération des données d'un module.
+    Le projet d'un client d'Intitek demandait la reprise d'un module utilisé pour la plongée sous-marine (qui
+    réalise des mesures au cours de plongées : pression, température, niveau d'oxygène, ...).
+    Cette reprise devait permettre l'ajout d'un capteur supplémentaire et aussi des améliorations et
+    corrections sur les applications embarquée et débarquée développées pour le module.
+    Ainsi, pour correctement reprendre l'application débarquée, le client a accepté qu'elle soit reprise en C#
+    avec WPF, en remplacement de LabView.
+    L'application développée devait ainsi être capable de communiquer avec un module pour récupérer et
+    traiter les données réalisées pendant des plongées.
+
+  🛠️ Réalisations:
+    ● Communication avec le module:
+      > Mise en place d'un protocole de communication entre le module et l'application.
+      > Configuration des paramètres sur le module.
+      > Téléchargement des données récupérées pendant des plongées.
+    ● Traitement, Sauvegarde et Visualisation des données:
+      > Extraction des mesures réalisées pendant les plongées depuis les données téléchargées.
+      > Enregistrements et lectures des plongées depuis un fichier Excel.
+      > Visualisation des données dans un graphique directement sur l'application.
+
+  🎉 Résultats:
+    ● Toutes les étapes de configuration, récupération, sauvegarde et visualisation étaient fonctionnelles.
+    ● Lors de premiers tests avec un module en construction, l'application avait réussi à bien extraire des
+      mesures pour les enregistrer et les visualiser, et elle était aussi capable de configurer des paramètres
+      du module.
+    ● L'architecture globale de l'application avait été correctement produite, au contraire de l'interface qui
+      n'avait pas été finalisée par manque de temps.
+
+  👨‍💻 Environnement technique:
+    ● Langages: C# avec WPF pour créer l'application débarquée, C.
+    ● IDE: Visual Studio.
+
+
+<page_break>
+💼 Stage Ingénieur - Intitek for Manufacturing, Lyon .............................................................
+
+  🗓️ 03/2020 - 06/2020 • 3 mois
+
+               🏷️ Développement logiciel d'une nouvelle carte d'Instrumentation et de Mesures (I&M) 📏
+
+  ℹ️ Contexte:
+    Objectif: Réaliser le développement logiciel à partir d'un prototype d'une nouvelle carte
+    d'Instrumentation et de Mesures (I&M) pour qu'elle fonctionne de la même manière qu'une précédente
+    carte.
+
+    \`Intitek for Manufacturing\` développe, fabrique et commercialise depuis 2008 des bancs de test
+    automatiques pour alternateurs et démarreurs de voitures, dans le but d'évaluer leurs performances et
+    surtout de valider leur fonctionnement.
+    Comme ces bancs de tests sont continuellement améliorés, une nouvelle carte d'Instrumentation et de
+    Mesures (I&M) était en cours d'étude afin d'améliorer son électronique et aussi simplifier son
+    fonctionnement.
+    Un prototype de cette nouvelle carte avait été produit, et toute la programmation permettant l'utilisation
+    de cette carte n'avait pas encore été développée.
+
+  🛠️ Réalisations:
+    ● Développement sur la nouvelle version de la carte I&M:
+      > Programmation du microcontrôleur pour lire et mesurer des signaux.
+      > Mise à jour de l'application débarquée pour communiquer avec la nouvelle carte.
+    ● Transition logicielle de la précédente à la nouvelle carte I&M:
+      > Adaptation des fonctionnalités de la précédente carte avec la nouvelle architecture de la carte.
+    ● Validation de la nouvelle carte dans un banc de test:
+      > Tests pour valider le comportement de la nouvelle carte.
+
+  🎉 Résultats:
+    ● Transition transparente d'une précédente à une nouvelle carte I&M réussie.
+    ● Quelques corrections de l'électronique du prototype avant production.
+    ● Production d'une première série de 25 nouvelles cartes I&M qui seront utilisées dans les prochains bancs
+      fabriqués.
+
+  👨‍💻 Environnement technique:
+    ● Langages: C pour la carte I&M, C# pour l'application débarquée.
+    ● Microcontrôleur: PIC 24F.
+    ● IDE: MPLAB X IDE, Visual Studio.
+
+
+<page_break>
+🎨 PORTFOLIOS ✨ _________________________________________________________________________________________________
+
+📝 CaptiVate: CV généré avec des liens internet ajoutés automatiquement ..........................................
+
+  🗓️ Période: 2023-2025
+
+  📸 Image: Portion du CV avec les liens visibles
+      ![cv_with_links-zoomed.png](drive_id='15m1EqMCpGx8J7mmjuRzetRSPRhyGM5Dx' width_cm=14)
+
+  ✨ Projet:
+    Mise en forme automatique d'un texte représentant un CV sur Google Docs, pour formater automatiquement
+    des éléments du texte (gras, italique, taille de lignes vides), et surtout pour ajouter des liens internets
+    dans les mots ou chaque lettre de mots.
+    Ainsi, plus d'une centaine de liens internet sont présents dans le CV: pour chaque évocation d'une
+    technologie, pour les \`PROJETS / REALISATIONS\`, et principalement pour la section \`CENTRES D'INTERETS\` avec
+    des liens vers des ressources “intéressantes” (principalement des vidéos) cachés dans la majorité des lettres.
+
+
+  🎉 Résultats:
+    • Mise en forme automatique d'éléments du textes
+      (par exemple: les lignes des sections, comme \`CENTRES D'INTERETS\`, sont automatiquement mises en gras
+       car contiennent "____").
+    • Mise en forme automatique aussi utilisée pour la génération de ce DOSSIER DE COMPETENCES.
+    • Gestion simplifiée de l'inclusion de liens dans le texte.
+
+  👨‍💻 Environnement technique: Apps Script, Google Docs.
+
+
+<page_break>
+🔲 NAND Pixels: Un processeur fonctionnant à partir de pixels ....................................................
+
+  🗓️ Période: 2022-2023
+
+  📸 Image: Processeur en pixels capable de compter
+      ![nand-pixels (tick_530).png](drive_id='1UDHjTJu62TK4YtrH3-T3AsOLHaz9Kbx0' width_cm=14)
+
+  ✨ Projet:
+    Simulateur de portes logiques NAND à partir d'une image où chaque pixel rouge est une porte logique NAND,
+    et les pixels bleus et verts sont des fils.
+
+    Recréation d'un processeur (inspiré de NandGame) par ce simulateur.
+
+  🎉 Résultats:
+      Un processeur composé de pixels capable de compter.
+        Vidéo: https://xav-jann1.github.io/ddc/portfolio/nand-pixels.gif
+
+  👨‍💻 Environnement technique: C++, Paint.
+
+
+<page_break>
+🤖 Coupes de France de Robotique 2018 et 2019 ....................................................................
+
+  🗓️ Période: 2018-2019
+
+  📸 Image: Photos pour la participation à l'édition 2019
+      ![Galileo - CDR.jpeg](drive_id='1H-FC4aY7XxLP_i52vIne7KLDHEXAON-o' width_cm=16.68)
+
+  ✨ Projet:
+    Participations aux Coupes de France de Robotique de 2018 et 2019 avec l'association de robotique
+    de CPE Lyon: Galileo.
+    L'objectif de cette coupe est de construire des robots autonomes qui se déplacent sur un terrain
+    prédéfini et qui essaient de marquer le plus de points en effectuant des actions.
+    Dans l'équipe, j'étais principalement responsable de toute l'architecture et programmation des robots:
+      • Contrôle d'actionneurs (servomoteurs, moteurs) et lecture de capteurs (infrarouges, encodeurs, fins de
+        course).
+      • Odométrie pour connaître la position du robot (grâce aux encodeurs).
+      • Asservissement pour déplacer le robot à une position demandée.
+      • Navigation: déplacement du robot pour suivre un chemin tout en évitant la rencontre avec un obstacle.
+      • Autonomie: définir un chemin et les actions que doit réaliser le robot pour marquer des points.
+
+  👨‍💻 Environnement technique: STM32F4, Mbed OS, C++.
+
+  🎉 Résultats:
+    • Des robots fonctionnels pour se déplacer sur le terrain et réaliser quelques actions pour marquer
+      des points.
+    • Article sur l'équipe: https://www.coupederobotique.fr/galileo-stand-96-un-projet-bien-gere/
+    • Classements:
+      - Edition 2018 sur le thème 'Robot Cities': 70ème sur 133 équipes.
+      - Edition 2019 sur le thème 'Atom Factory': 74ème sur 131 équipes.
+
+
+<page_break>
+⌨️ Chalk'em - Game Jam ...........................................................................................
+
+  🗓️ Date: 14-15/08/2021
+
+  📸 Image:
+      ![Chalk'em.jpeg](drive_id='1WEhBie_xoZQ6Oj_NQzRgOQFkq_2jWCjX' width_cm=13.1)
+
+  ✨ Projet:
+    Jeu réalisé dans une équipe de 4 personnes durant la Game Jam \`KeysToTheJam 2021\`.
+
+  🎉 Résultats:
+    • Jeu résultant de la Game Jam: https://souls-panic.itch.io/chalkem
+
+  👨‍💻 Environnement technique: Unity, C#.
+
+
+💫 Souls Panic - Game Jam .......................................................................................
+
+  🗓️ Date: 11-12/08/2018
+
+  📸 Image:
+      ![Soul's Panic.jpeg](drive_id='1_3KQbdmres14j1rOUvlg_TA1AJ3iqETJ' width_cm=13.1)
+
+  ✨ Projet:
+    Jeu réalisé dans une équipe de 4 personnes durant la Game Jam \`Ludum Dare 42\`.
+
+  🎉 Résultats:
+    • Jeu résultant de la Game Jam: https://ldjam.com/events/ludum-dare/42/souls-panic
+
+  👨‍💻 Environnement technique: Unity, C#.
+💬 GaliBot - ChatBot pour étudiants ..............................................................................
+
+  🗓️ Période: 2018-2020
+
+  📸 Image: Captures d'échanges avec le GaliBot sur Messenger
+      ![GaliBot (v1.2).png](drive_id='1LbPBgx8PCKYo1tV9xvIIUpTGqSycl0Iq' width_cm=14)
+
+  ✨ Projet:
+    En charge de toutes les étapes de vie de l'application: du développement logiciel à l'intégration sur
+    serveur.
+    GaliBot était un chatbot dédié aux élèves de l'école CPE Lyon qui envoyait tous les matins et après-midi le
+    planning pour chaque étudiant (avec la salle) par SMS ou Messenger.
+
+    • Interprétation et stockage des plannings:
+      - Détection lorsqu'un nouveau planning est publié.
+      - Interprétation du planning pour stocker les cours d'une manière structurée sur la base de données.
+    • Traitement et génération de messages:
+      - Génération des messages en fonction de la promo de l'élève et de son groupe ou de sa majeure.
+      - Envois automatiques des messages aux étudiants par SMS ou Messenger.
+      - Interprétation des messages reçus pour renvoyer l'information demandée.
+    • Configuration du serveur:
+      - Gestion de la base de données (accès et permissions).
+      - Sauvegardes récurrentes de la base de données et stockées sur un autre serveur.
+      - Assurer l'exécution continue de l'application même après une erreur.
+    • Maintenance de l'application:
+      - Enregistrement et analyse des logs de l'application.
+      - Détection et correction de bugs.
+
+  🎉 Résultats:
+    Durant l'année 2019-2020, plus de 200 élèves étaient inscrits, ce qui représente en moyenne plus de 500
+    messages envoyés par jour, soit plus de 2500 messages par semaine.
+
+  👨‍💻 Environnement technique: NodeJS, MongoDB, Linux, Git.
