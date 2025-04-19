@@ -51,7 +51,19 @@ Xavier JANNIN
   🇬🇧 Anglais: Niveau C1 (CAE). (Quotidiennement, regarde des vidéos et lit des articles dans la langue de Turing)
 
 
-<page_break>
+🎨 PORTFOLIOS ✨ ________________________________________________________________________________________________
+
+  2023-2025   📝 CaptiVate: CV généré avec des liens internet ajoutés automatiquement  [Apps Script, Google Docs]
+
+  2022-2023   🔲 NAND Pixels: Un processeur fonctionnant à partir de pixels            [C++, Paint]
+
+  2018-2020   💬 GaliBot: ChatBot pour étudiants                                       [NodeJS, MongoDB]
+
+  2018-2019   🤖 Coupes de France de Robotique 2018 et 2019                            [STM32F4, Mbed OS, C++]
+
+       2021   ⌨️ Chalk'em: Jeu développé durant la Game Jam \`KeysToTheJam 2021\`        [Unity, C#]
+
+       2018   💫 Souls Panic: Jeu développé durant la Game Jam \`Ludum Dare 42\`         [Unity, C#]
 👨‍💼 EXPERIENCES DETAILLEES 📝 _____________________________________________________________________________________
 
 💼 Ingénieur d'Etudes - Elsys Design, Villeurbanne ...............................................................
@@ -258,7 +270,6 @@ Xavier JANNIN
     technologie, pour les \`PROJETS / REALISATIONS\`, et principalement pour la section \`CENTRES D'INTERETS\` avec
     des liens vers des ressources “intéressantes” (principalement des vidéos) cachés dans la majorité des lettres.
 
-
   🎉 Résultats:
     • Mise en forme automatique d'éléments du textes
       (par exemple: les lignes des sections, comme \`CENTRES D'INTERETS\`, sont automatiquement mises en gras
@@ -323,37 +334,7 @@ Xavier JANNIN
 
 
 <page_break>
-⌨️ Chalk'em - Game Jam ...........................................................................................
-
-  🗓️ Date: 14-15/08/2021
-
-  📸 Image:
-      ![Chalk'em.jpeg](drive_id='1WEhBie_xoZQ6Oj_NQzRgOQFkq_2jWCjX' width_cm=13.1)
-
-  ✨ Projet:
-    Jeu réalisé dans une équipe de 4 personnes durant la Game Jam \`KeysToTheJam 2021\`.
-
-  🎉 Résultats:
-    • Jeu résultant de la Game Jam: https://souls-panic.itch.io/chalkem
-
-  👨‍💻 Environnement technique: Unity, C#.
-
-
-💫 Souls Panic - Game Jam .......................................................................................
-
-  🗓️ Date: 11-12/08/2018
-
-  📸 Image:
-      ![Soul's Panic.jpeg](drive_id='1_3KQbdmres14j1rOUvlg_TA1AJ3iqETJ' width_cm=13.1)
-
-  ✨ Projet:
-    Jeu réalisé dans une équipe de 4 personnes durant la Game Jam \`Ludum Dare 42\`.
-
-  🎉 Résultats:
-    • Jeu résultant de la Game Jam: https://ldjam.com/events/ludum-dare/42/souls-panic
-
-  👨‍💻 Environnement technique: Unity, C#.
-💬 GaliBot - ChatBot pour étudiants ..............................................................................
+💬 GaliBot: ChatBot pour étudiants ..............................................................................
 
   🗓️ Période: 2018-2020
 
@@ -386,3 +367,36 @@ Xavier JANNIN
     messages envoyés par jour, soit plus de 2500 messages par semaine.
 
   👨‍💻 Environnement technique: NodeJS, MongoDB, Linux, Git.
+
+
+<page_break>
+⌨️ Chalk'em - Game Jam ...........................................................................................
+
+  🗓️ Date: 14-15/08/2021
+
+  📸 Image:
+      ![Chalk'em.jpeg](drive_id='1WEhBie_xoZQ6Oj_NQzRgOQFkq_2jWCjX' width_cm=13.1)
+
+  ✨ Projet:
+    Jeu réalisé dans une équipe de 4 personnes durant la Game Jam \`KeysToTheJam 2021\`.
+
+  🎉 Résultats:
+    • Jeu résultant de la Game Jam: https://souls-panic.itch.io/chalkem
+
+  👨‍💻 Environnement technique: Unity, C#.
+
+
+💫 Souls Panic - Game Jam .......................................................................................
+
+  🗓️ Date: 11-12/08/2018
+
+  📸 Image:
+      ![Soul's Panic.jpeg](drive_id='1_3KQbdmres14j1rOUvlg_TA1AJ3iqETJ' width_cm=13.1)
+
+  ✨ Projet:
+    Jeu réalisé dans une équipe de 4 personnes durant la Game Jam \`Ludum Dare 42\`.
+
+  🎉 Résultats:
+    • Jeu résultant de la Game Jam: https://ldjam.com/events/ludum-dare/42/souls-panic
+
+  👨‍💻 Environnement technique: Unity, C#.
