@@ -5,11 +5,11 @@ Xavier JANNIN
 
                                      Curieux, Persévérant, Adaptatif, Autonome
 
-🛠️ COMPETENCES ⚙️ _______________________________________________________________________________________________
+🛠️ COMPETENCES ⚙️ ________________________________________________________________________________________________
 
   🏆 Utilisés dans de nombreux projets (presque un expert):         Python, Bash, Git|GitHub|GitLab
 
-  🎯 Déjà utilisés avec succès dans un ou plusieurs projets:        C/C++, JavaScript/NodeJS, C#, Pytest, SQL
+  🎯 Déjà utilisés avec succès dans un ou plusieurs projets:        C/C++, JavaScript/NodeJS, C#, Pytest, SQL, Go
 
   🚫 Utilisés professionnellement mais ne souhaite pas en refaire:  Ansible, AWX, Gauge
 
@@ -32,7 +32,7 @@ Xavier JANNIN
      3 mois             📏 Développement logiciel d'une nouvelle carte d'Instrumentation et de Mesures (I&M)
 
 
-🎓 FORMATION 📚 _________________________________________________________________________________________________
+🎓 FORMATION 📚 __________________________________________________________________________________________________
 
   2017-2020   Ecole d'ingénieur en Sciences du Numérique en Majeure Robotique
                   à CPE Lyon
@@ -44,14 +44,14 @@ Xavier JANNIN
                   au Lycée Aux Lazaristes à Lyon
 
 
-🌍 LANGUES 🗣️ ___________________________________________________________________________________________________
+🌍 LANGUES 🗣️ ____________________________________________________________________________________________________
 
   🇫🇷 Français: Langue maternelle.
 
   🇬🇧 Anglais: Niveau C1 (CAE). (Quotidiennement, regarde des vidéos et lit des articles dans la langue de Turing)
 
 
-🎨 PORTFOLIOS ✨ ________________________________________________________________________________________________
+🎨 PORTFOLIOS ✨ _________________________________________________________________________________________________
 
   2023-2025   📝 CaptiVate: CV généré avec des liens internet ajoutés automatiquement  [Apps Script, Google Docs]
 
@@ -334,7 +334,7 @@ Xavier JANNIN
 
 
 <page_break>
-💬 GaliBot: ChatBot pour étudiants ..............................................................................
+💬 GaliBot: ChatBot pour étudiants ...............................................................................
 
   🗓️ Période: 2018-2020
 
@@ -386,7 +386,7 @@ Xavier JANNIN
   👨‍💻 Environnement technique: Unity, C#.
 
 
-💫 Souls Panic - Game Jam .......................................................................................
+💫 Souls Panic - Game Jam ........................................................................................
 
   🗓️ Date: 11-12/08/2018
 
