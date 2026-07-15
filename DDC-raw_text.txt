@@ -1,16 +1,15 @@
                                               DOSSIER DE COMPETENCES
 Xavier JANNIN
                                         Ingénieur en Développement Logiciel
-                                               4 années d'expérience
-                                        (11 années d'expérience personnelle)
+                                               5 années d'expérience
 
                                      Curieux, Persévérant, Adaptatif, Autonome
 
 🛠️ COMPETENCES ⚙️ ________________________________________________________________________________________________
 
-  🏆 Utilisés dans de nombreux projets (presque un expert):         Python, Bash, Git|GitHub|GitLab
+  🏆 Utilisés dans de nombreux projets (presque un expert):         C#, Python, Bash, Git|GitHub|GitLab
 
-  🎯 Déjà utilisés avec succès dans un ou plusieurs projets:        C/C++, JavaScript/NodeJS, C#, Pytest, SQL, Go
+  🎯 Déjà utilisés avec succès dans un ou plusieurs projets:        C/C++, JavaScript/TypeScript, Pytest, SQL, Go
 
   🚫 Utilisés professionnellement mais ne souhaite pas en refaire:  Ansible, AWX, Gauge
 
@@ -20,16 +19,19 @@ Xavier JANNIN
 
 💼 EXPERIENCES 🗓️ ________________________________________________________________________________________________
 
-  01/2024 - 03/2025   Ingénieur d'Etudes à Elsys Design, Villeurbanne
+  Depuis 07/2025      Ingénieur en Développement à Ikigaï (ESN), Lyon
+     > 1 an             📊 Développement d'un logiciel de modélisation actuarielle
+
+  01/2024 - 03/2025   Ingénieur d'Etudes à Elsys Design (ESN), Villeurbanne
      1 an 2 mois        ✅ Vérification d'une puce électronique en cours de développement
 
-  02/2021 - 01/2024   Ingénieur d'Etudes à Solutec, Villeurbanne
+  02/2021 - 01/2024   Ingénieur d'Etudes à Solutec (ESN), Villeurbanne
      2 ans 11 mois      🐸 Expert Artifactory et Automatisation de l'installation de l'agent Splunk 🕵🏻
 
-  06/2020 - 10/2020   Projet de Fin d'Etudes à Intitek for Industry, Lyon
+  06/2020 - 10/2020   Projet de Fin d'Etudes à Intitek for Industry (ESN), Lyon
      4 mois             📟 Conception d'une application débarquée
 
-  03/2020 - 06/2020   Stage Ingénieur à Intitek for Manufacturing, Lyon
+  03/2020 - 06/2020   Stage Ingénieur à Intitek for Manufacturing (ESN), Lyon
      3 mois             📏 Développement logiciel d'une nouvelle carte d'Instrumentation et de Mesures (I&M)
 
 
@@ -51,7 +53,7 @@ Xavier JANNIN
   🇬🇧 Anglais: Niveau C1 (CAE). (Quotidiennement, regarde des vidéos et lit des articles dans la langue de Turing)
 
 
-🎨 PORTFOLIOS ✨ _________________________________________________________________________________________________
+🎨 PORTFOLIO ✨ _________________________________________________________________________________________________
 
   2023-2025   📝 CaptiVate: CV généré avec des liens internet ajoutés automatiquement  [Apps Script, Google Docs]
 
@@ -64,9 +66,62 @@ Xavier JANNIN
        2021   ⌨️ Chalk'em: Jeu développé durant la Game Jam \`KeysToTheJam 2021\`        [Unity, C#]
 
        2018   💫 Souls Panic: Jeu développé durant la Game Jam \`Ludum Dare 42\`         [Unity, C#]
+
+
 👨‍💼 EXPERIENCES DETAILLEES 📝 _____________________________________________________________________________________
 
-💼 Ingénieur d'Etudes - Elsys Design, Villeurbanne ...............................................................
+💼 Ingénieur en Développement - Ikigaï (ESN), Lyon ...............................................................
+
+  🗓️ Depuis Juillet 2025 • > 1 an
+
+                           🏷️ Développement d'un logiciel de modélisation actuarielle 📊
+
+  ℹ️ Contexte:
+    Mission dans une équipe de développement d'un logiciel de modélisation de données destiné à des actuaires.
+    Le logiciel compile et effectue les calculs provenant de modèles mathématiques et statistiques réalisés par
+    des actuaires afin qu'ils apportent une expertise sur l'évaluation de risques, généralement destinée à des
+    assurances.
+    Une interface permet de visualiser l'ensemble des résultats produit par les modèles, où il est aussi possible
+    d'exporter les données calculées.
+    En raison du volume important de données à traiter et des nombreux calculs réalisés lors de l'exécution
+    d'un modèle, le logiciel se doit d'offrir de bonnes performances tout en limitant sa consommation de
+    mémoire: des exigences qui doivent être prises en compte lors de tout développement sur le logiciel.
+
+  🛠️ Réalisations:
+    ● Développement de nouvelles fonctionnalités:
+      > Création d'API pour exposer des données pour le front-end ou pour d'autres services.
+        Par exemple: API pour exporter des résultats des modèles (et récupérables par d'autres services).
+      > Implémentation de nouvelles structures de données pour améliorer la gestion des données durant
+        l'exécution des calculs.
+      > Intégration de la gestion d'un nouveau type de modèle dans une solution à l'origine prévue pour
+        un seul type.
+    ● Améliorations continues, refactorisation, optimisations:
+      > Séparation de la base de code en deux applications distinctes pour distinguer l'interface gérant 
+        l'organisation des projets, de l'interface en charge des calculs et de l'affichage des résultats.
+      > Ajout de tests (générés automatiquement par fuzzing) pour s'assurer du bon fonctionnement du logiciel
+        dans des situations complexes et difficilement prévisibles manuellement.
+        L'ajout de ces tests a amené à la reprise de nombreux éléments du moteur de calculs pour gérer tous
+        les cas particuliers identifiés.
+      > Simplification de requêtes sur la base de données permettant d'obtenir une interface plus réactive.
+    ● Support:
+      > Débogage (généralement dans du code inconnu) de problèmes remontés par des utilisateurs
+        pour identifier un correctif ou au minimum une solution de contournement.
+
+  🎉 Résultats:
+    ● Intégrations réussies des nouvelles demandes métiers tout en améliorant le fonctionnel existant.
+    ● Les refactorisations effectuées simplifient la complexité inhérente du code et aussi facilitent les
+      développements futurs.
+    ● Réponses rapides aux utilisateurs à l'encontre des bugs qu'ils rencontrent.
+
+  👨‍💻 Environnement technique:
+    ● Langages: C# (.NET, ASP.NET), TypeScript (framework: Angular).
+    ● Outils: Git, Azure DevOps.
+    ● IDE: Visual Studio, Visual Studio Code.
+    ● IA: Claude Code.
+
+
+<page_break/>
+💼 Ingénieur d'Etudes - Elsys Design (ESN), Villeurbanne .........................................................
 
   🗓️ 01/2024 - 03/2025 • 1 an 2 mois
 
@@ -105,8 +160,8 @@ Xavier JANNIN
     ● Outils: Git, GitHub, Jenkins, Grafana.
 
 
-<page_break>
-💼 Ingénieur d'Etudes - Solutec, Villeurbanne ....................................................................
+<page_break/>
+💼 Ingénieur d'Etudes - Solutec (ESN), Villeurbanne ..............................................................
 
   🗓️ 02/2021 - 01/2024 • 2 ans 11 mois
 
@@ -168,8 +223,8 @@ Xavier JANNIN
     ● Méthodologie: Agile.
 
 
-<page_break>
-💼 Projet de Fin d'Etudes - Intitek for Industry, Lyon ...........................................................
+<page_break/>
+💼 Projet de Fin d'Etudes - Intitek for Industry (ESN), Lyon .....................................................
 
   🗓️ 06/2020 - 10/2020 • 4 mois
 
@@ -210,8 +265,8 @@ Xavier JANNIN
     ● IDE: Visual Studio.
 
 
-<page_break>
-💼 Stage Ingénieur - Intitek for Manufacturing, Lyon .............................................................
+<page_break/>
+💼 Stage Ingénieur - Intitek for Manufacturing (ESN), Lyon .......................................................
 
   🗓️ 03/2020 - 06/2020 • 3 mois
 
@@ -252,8 +307,8 @@ Xavier JANNIN
     ● IDE: MPLAB X IDE, Visual Studio.
 
 
-<page_break>
-🎨 PORTFOLIOS ✨ _________________________________________________________________________________________________
+<page_break/>
+🎨 PORTFOLIO ✨ __________________________________________________________________________________________________
 
 📝 CaptiVate: CV généré avec des liens internet ajoutés automatiquement ..........................................
 
@@ -280,7 +335,7 @@ Xavier JANNIN
   👨‍💻 Environnement technique: Apps Script, Google Docs.
 
 
-<page_break>
+<page_break/>
 🔲 NAND Pixels: Un processeur fonctionnant à partir de pixels ....................................................
 
   🗓️ Période: 2022-2023
@@ -301,7 +356,7 @@ Xavier JANNIN
   👨‍💻 Environnement technique: C++, Paint.
 
 
-<page_break>
+<page_break/>
 🤖 Coupes de France de Robotique 2018 et 2019 ....................................................................
 
   🗓️ Période: 2018-2019
@@ -333,7 +388,7 @@ Xavier JANNIN
       - Edition 2019 sur le thème 'Atom Factory': 74ème sur 131 équipes.
 
 
-<page_break>
+<page_break/>
 💬 GaliBot: ChatBot pour étudiants ...............................................................................
 
   🗓️ Période: 2018-2020
@@ -369,7 +424,7 @@ Xavier JANNIN
   👨‍💻 Environnement technique: NodeJS, MongoDB, Linux, Git.
 
 
-<page_break>
+<page_break/>
 ⌨️ Chalk'em - Game Jam ...........................................................................................
 
   🗓️ Date: 14-15/08/2021
