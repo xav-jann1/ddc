@@ -2,17 +2,22 @@
 Xavier JANNIN
                                         Ingénieur en Développement Logiciel
                                                5 années d'expérience
-
+:6
                                      Curieux, Persévérant, Adaptatif, Autonome
+
+      Connaissances variées, du développement applicatif aux systèmes embarqués en passant par le DevOps,
+      qui facilitent la mise en place de systèmes complexes combinant divers domaines.
+      Contribue à la simplification et à l'automatisation des systèmes,
+      tout en garantissant leur évolutivité et leur maintenabilité.
 
 🛠️ COMPETENCES ⚙️ ________________________________________________________________________________________________
 
   🏆 Utilisés dans de nombreux projets (presque un expert):         C#, Python, Bash, Git|GitHub|GitLab
-
+:6
   🎯 Déjà utilisés avec succès dans un ou plusieurs projets:        C/C++, JavaScript/TypeScript, Pytest, SQL, Go
-
+:6
   🚫 Utilisés professionnellement mais ne souhaite pas en refaire:  Ansible, AWX, Gauge
-
+:6
   🔧 Outils déjà utilisés au cours de projets:                      Artifactory, Docker, Jenkins, Grafana
                                                                     IDE: Visual Studio, STM32CubeIDE, MPLAB X IDE
                                                                     Microcontrôleurs: Arduino, STM32, PIC, 8051
@@ -20,59 +25,57 @@ Xavier JANNIN
 💼 EXPERIENCES 🗓️ ________________________________________________________________________________________________
 
   Depuis 07/2025      Ingénieur en Développement à Ikigaï (ESN), Lyon
-     > 1 an             📊 Développement d'un logiciel de modélisation actuarielle
-
+     > 1 an 5 mois      📊 Développement d'un logiciel de modélisation actuarielle
+:6
   01/2024 - 03/2025   Ingénieur d'Etudes à Elsys Design (ESN), Villeurbanne
      1 an 2 mois        ✅ Vérification d'une puce électronique en cours de développement
-
+:6
   02/2021 - 01/2024   Ingénieur d'Etudes à Solutec (ESN), Villeurbanne
      2 ans 11 mois      🐸 Expert Artifactory et Automatisation de l'installation de l'agent Splunk 🕵🏻
-
+:6
   06/2020 - 10/2020   Projet de Fin d'Etudes à Intitek for Industry (ESN), Lyon
      4 mois             📟 Conception d'une application débarquée
-
+:6
   03/2020 - 06/2020   Stage Ingénieur à Intitek for Manufacturing (ESN), Lyon
      3 mois             📏 Développement logiciel d'une nouvelle carte d'Instrumentation et de Mesures (I&M)
-
+:4
 
 🎓 FORMATION 📚 __________________________________________________________________________________________________
 
   2017-2020   Ecole d'ingénieur en Sciences du Numérique en Majeure Robotique
                   à CPE Lyon
-
-  2015-2017   Classes Préparatoires Scientifiques
-                  aux Classes Préparatoires de CPE Lyon
-
+:4
   2015        Baccalauréat Scientifique option Sciences de l'Ingénieur avec Mention
                   au Lycée Aux Lazaristes à Lyon
-
+:6
 🌍 LANGUES 🗣️ ____________________________________________________________________________________________________
 
   🇫🇷 Français: Langue maternelle.
-
+:6
   🇬🇧 Anglais: Niveau C1 (CAE). (Quotidiennement, regarde des vidéos et lit des articles dans la langue de Turing)
-
+:4
 
 🎨 PORTFOLIO ✨ _________________________________________________________________________________________________
 
   2023-2025   📝 CaptiVate: CV généré avec des liens internet ajoutés automatiquement  [Apps Script, Google Docs]
-
+:3
   2022-2023   🔲 NAND Pixels: Un processeur fonctionnant à partir de pixels            [C++, Paint]
-
+:3
   2018-2020   💬 GaliBot: ChatBot pour étudiants                                       [NodeJS, MongoDB]
-
+:3
   2018-2019   🤖 Coupes de France de Robotique 2018 et 2019                            [STM32F4, Mbed OS, C++]
-
+:3
        2021   ⌨️ Chalk'em: Jeu développé durant la Game Jam \`KeysToTheJam 2021\`        [Unity, C#]
-
+:3
        2018   💫 Souls Panic: Jeu développé durant la Game Jam \`Ludum Dare 42\`         [Unity, C#]
-
-
+// dummy line
+// dummy line
+// dummy line
 👨‍💼 EXPERIENCES DETAILLEES 📝 _____________________________________________________________________________________
 
 💼 Ingénieur en Développement - Ikigaï (ESN), Lyon ...............................................................
 
-  🗓️ Depuis Juillet 2025 • > 1 an
+  🗓️ Depuis Juillet 2025 • > 1 an 5 mois
 
                            🏷️ Développement d'un logiciel de modélisation actuarielle 📊
 
@@ -177,7 +180,7 @@ Xavier JANNIN
         les binaires des applications développées par les projets. Cet outil doit alors être disponible 24h/24h
         et présent dans toutes les zones réseaux de la DSI pour que les projets puissent déployer ou récupérer
         des artéfacts.
-
+:4
      ● Support de l'outil:
        > Accompagnement des projets sur l'utilisation d'Artifactory lorsqu'ils rencontrent des difficultés.
        > Débogage et correction de problèmes rencontrés par les utilisateurs ou par Artifactory.
@@ -199,7 +202,7 @@ Xavier JANNIN
         Splunk est le SIEM utilisé par le pôle Cyber pour récolter les logs des machines du parc.
         Pour faciliter l'installation de l'agent Splunk sur toutes les machines Linux et Windows, ces
         installations ont été automatisées à l'aide d'Ansible et AWX.
-
+:4
      ● Automatisation de l'installation de l'agent Splunk sous Linux et Windows:
        > Développement de rôles Ansible d'installation de l'agent Splunk sous Linux et Windows.
        > Gestion de l'installation sur différentes versions de souches Linux et Windows, et dans différentes
@@ -276,7 +279,7 @@ Xavier JANNIN
     Objectif: Réaliser le développement logiciel à partir d'un prototype d'une nouvelle carte
     d'Instrumentation et de Mesures (I&M) pour qu'elle fonctionne de la même manière qu'une précédente
     carte.
-
+:4
     \`Intitek for Manufacturing\` développe, fabrique et commercialise depuis 2008 des bancs de test
     automatiques pour alternateurs et démarreurs de voitures, dans le but d'évaluer leurs performances et
     surtout de valider leur fonctionnement.
@@ -346,7 +349,7 @@ Xavier JANNIN
   ✨ Projet:
     Simulateur de portes logiques NAND à partir d'une image où chaque pixel rouge est une porte logique NAND,
     et les pixels bleus et verts sont des fils.
-
+:4
     Recréation d'un processeur (inspiré de NandGame) par ce simulateur.
 
   🎉 Résultats:
